@@ -1,0 +1,2 @@
+make:
+	javac SetOperations.java
