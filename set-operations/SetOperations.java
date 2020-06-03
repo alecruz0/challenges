@@ -15,7 +15,7 @@ import java.util.Set;
  * <li> Symmetric Difference </li>
  * </ul>
  * 
- * @author Ale Cruz
+ * @author Manuel Cruz
  * @version 1.0
  * @date June 3, 2020
  *
