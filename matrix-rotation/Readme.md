@@ -1,1 +1,2 @@
-Instructions: on terminal type runn, then ./rotation <filename>
+#Instructions
+On terminal type run, then ./rotation <filename>
