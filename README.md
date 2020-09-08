@@ -1,2 +1,2 @@
-# challenges
-Challenges that I have preformed to improve my skills
+# Description
+Challenges that I have performed.
