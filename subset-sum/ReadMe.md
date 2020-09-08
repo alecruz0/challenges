@@ -6,4 +6,4 @@ Array.txt is a sample of array file. You can test your own.
 # Instructions
 On terminal:
 -To Compile: make subset
--to Run: java SubsetSum &ltarray file> &ltsubset size> &ltsum to search>"
+-to Run: java SubsetSum < array file > < subset size > < sum to search >"
