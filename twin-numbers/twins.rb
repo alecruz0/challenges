@@ -54,7 +54,7 @@ def main(args)
 	
 	# check all possible pairs
 	for first_value in left_interval..right_interval - 1
-		for second_value in left_interval + 1..right_interval
+		for second_value in first_value + 1..right_interval
 			if twins(first_value, second_value)
 				print "(", first_value, ", ", second_value, ")"
 				puts
